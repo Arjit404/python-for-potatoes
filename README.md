@@ -13,7 +13,7 @@ The projects cover a wide range of topics to enhance different aspects of your P
 - **Functions and Recursion**
 - **Data Structures (Lists, Dictionaries, Sets, Tuples)**
 - **File Handling**
-- **Automation**0
+- **Automation**
 - **Games and Simulations**
 
 ## 🚀 Getting Started
@@ -22,7 +22,7 @@ To start working with any project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Arjit404/python-for-potatoes-name.git
+   git clone https://github.com/Arjit404/python-for-potatoes.git
    ```
 2. **Navigate to the project folder**:
    ```bash
